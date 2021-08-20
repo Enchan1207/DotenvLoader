@@ -7,7 +7,7 @@ import setuptools, os
 
 setuptools.setup(
     name="DotenvLoader",
-    version="0.0.0",
+    version="1.0.0",
     license="MIT Licence",
     description="dotenv file (.env) loader",
     author="Enchan1207",
